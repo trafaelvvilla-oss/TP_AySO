@@ -1,1 +1,2 @@
 datos de usuario
+Usuario=vagrant
