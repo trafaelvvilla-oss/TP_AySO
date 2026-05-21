@@ -1,0 +1,236 @@
+cat /etc/passwd 
+cd
+mkdir repogit
+cd repogit
+git clone git@github.com:upszot/UTN-FRA_SO_Vagrant.git
+https://github.com/trafaelvvilla-oss/TP_AySO.git
+ssh-keygen
+[200~b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACA5jGFF6c78aVXHVPeNTfP3X9PifHOaS+Fc/K040ZLEUAAAAJCAcneZgHJ3
+mQAAAAtzc2gtZWQyNTUxOQAAACA5jGFF6c78aVXHVPeNTfP3X9PifHOaS+Fc/K040ZLEUA
+AAAEDKitDvU6jArlQkK9JGyiIF0PtBnsuA481cM/g69xKQzDmMYUXpzvxpVcdU941N8/df
+0+J8c5pL4Vz8rTjRksRQAAAACnRyYWZhQHRvdG8BAgM=~
+ssh-keygen
+git@github.com:trafaelvvilla-oss/TP_AySO.git
+ssh-keygen
+cat $HOME/.ssh/*.pub 
+cd
+mkdir repogit
+git clone git@github.com:trafaelvvilla-oss/TP_AySO.git
+cdcgggggggg cl
+cd TP_AySO/p
+pwd
+ls -l  
+cat /etc/passwd
+/etc/passd
+man grep
+grep UBUNTU /etc/passwd
+gren ubuntu /etc/passwd
+grep <parametro> Ubuntu /etc/passwd
+grep <man> /etc/passwd
+grep -i root /etc/passwd
+grep -n /etc/passwd
+grep root /etc/passwd > datos_usuario.txt
+cat datos_usuario.txt
+whoami
+ssh-keygen
+yes
+ssh-keygen
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACA5jGFF6c78aVXHVPeNTfP3X9PifHOaS+Fc/K040ZLEUAAAAJCAcneZgHJ3
+mQAAAAtzc2gtZWQyNTUxOQAAACA5jGFF6c78aVXHVPeNTfP3X9PifHOaS+Fc/K040ZLEUA
+AAAEDKitDvU6jArlQkK9JGyiIF0PtBnsuA481cM/g69xKQzDmMYUXpzvxpVcdU941N8/df
+0+J8c5pL4Vz8rTjRksRQAAAACnRyYWZhQHRvdG8BAgM=
+ssh-keygen
+cd
+mkdir repogit
+cd repogit
+git clone git@github.com:upszot/UTN-FRA_SO_Vagrant.git
+cd UTN-FRA_SO_onBording/
+ssh-keygen
+cat $HOME/.ssh/*.pub 
+cd
+g
+mkdir repogit
+ssh-keygen
+cat $HOME/.ssh/*.pub
+cd
+mkdir repogit
+cd repogit
+git clone   hhhhhhhhhhh
+git clone git@github.com:upszot/UTN-FRA_SO_Vagrant.git 
+cd UTN-FRA_SO_
+ssh-keygen
+cat $HOME/.ssh/*.pub 
+repogit
+cd repogit
+git clone git@github.com:upszot/UTN-FRA_SO_Vagrant.git
+cd TP_AySO/
+cd ~/Documents/UTN-FRA_SO_Vagrant/VagrantFiles/1_equipo
+cd UTN-FRA_SO_
+pwd
+ls -l  
+cat /etc/passwd
+man grep
+grep UBUNTU /etc/passwd
+grep ubuntu /etc/passwd
+grep -n root /etc/passwd
+grep root /etc/passwd > datos_usuario.txt
+cat datos_usuario_txt
+grep ubuntu /etc/passwd > datos_usuario.txt
+cat datos_usuario_txt
+grep ubuntu /etc/passwd
+grep ubuntu /etc/passwd > datos_usuario.txt
+cat datos_usuario_txt
+grep -n root /etc/passwd
+grep root /etc/passwd > datos_usuario.txt
+cat datos_usuario_txt
+grep -n root /etc/passwd > datos_usuario.txt
+cat datos_usuario_txt
+cat datos_usuario,txt
+grep -n root /etc/passwd > datos_usuario.txt
+cat datos_usuario,txt
+grep ubuntu /etc/passwd > datos_usuario.txt
+cat datos_usuario,txt
+ls
+cat datos_usuario,txt
+rm datos_usuario,txt
+ls -1
+rm datos_usuario.txt
+grep root /etc/passwd > datos_usuario.txt
+cat datos_usuario.txt
+whoami
+Usuario=$(whoami)” >> datos_usuario.txt 
+echo “Usuario=$(whoami)” >> datos_usuario.txt  
+echo "Usuario=$(whoami)" >> datos_usuario.txt
+cat datos_usuario.txt
+git add
+cd TP_AySO
+ls
+git clone https://github.com/trafaelvvilla-oss/TP_AySO.git
+cd TP_AySO/
+is -a
+ls -a
+git add datos_usuario.txt
+git add
+git add .
+git config --global user.email "trafaelvvilla@gmail.com"   
+git config --global user.email
+git commit -m "ADD:agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git logs --oneline
+git log --oneline
+s
+ls
+echo "datos de usuario" > datos_usuarios.txt
+ls
+git status
+git commit -n "ADD:agregado 1er ejercicio sobre datos_usuarios.txt"
+git add
+git add .
+git commit -n "ADD:agregado 1er ejercicio sobre datos_usuarios.txt"
+ls
+git .
+git add .
+git commit -m "chore: agregar archivo datos_usuarios.txt del primer ejercicio"
+git log --online
+git log --oneline
+pwd
+ls -/repogit
+git log --oneline
+git status
+git push
+git push 
+cat datos_usuarios.txt
+ls -1 datos_usuario.txt
+pwd
+ls
+cat datos_usuarios.txt
+echo "Ysuario=$(whoami)" >> datos_usuarios.txt
+cat datos_usuarios.txt
+echo "Usuario=$(whoami)" >> datos_usuarios.txt
+cat datos_usuarios.txt
+nano datos_usuarios.txt
+cat datos_usuarios.txt
+wd
+pwd
+cd Tp_AySO
+cd /Tp_AySO
+cat README.md
+echo "# TP_AySO" > README.md
+cat README.md
+git status
+git add
+git add .
+git commit -m "chore: actualizar archivos del TP"
+cd ~/repogit/TP_AySO
+pwd
+ls
+cat /etc/passwd
+man grep
+grep UBUNTU /etc/passwd
+grep ubuntu /etc/passwd
+grep -i ubuntu /etc/passwd
+whoami
+echo "Usuario=$(whoami)" >> datos_usuarios.txt
+cat datos_usuarios.txt
+git add .
+git commit -m "feat: completar TPAySO con grep, awk y datos_usuario"
+git push
+pwd
+ls
+cat datos_usuarios.txt
+git status
+git log --oneline
+grep
+head
+grep
+man
+man man
+head
+cd /home/vagrant/repogit/TP_AySO
+pwd
+ls
+grep "model name" /proc/cpuinfo | head -n 1 > info_pc.txt
+cat info_pc.txt
+grep -v "nologin" /etc/passwd | head -n 10 | sort -t: -k7 > lista_ordenada
+cat lista_ordenada
+git add lista_ordenada
+git commit -m "ADD: Listado de usuarios ordenada"
+cat <<EOF >> README.md
+Alumno: Tobías Venturino Villarroel
+División: 116
+Turno: mañana
+EOF
+
+cat README.md
+git add README.md
+git commit -m "docs: Agregando informacion del alumno"
+git push
+mkdir -p ~/TP1/{Arquitectura/{Clase1,Clase2,Clase3,Clase4,Clase5},SO/{Clase1,Clase2,Clase3,Clase4,Clase5,Clase6}}
+mkdir -p TP1/arquitectura/Clase{1..6} TP1/SO/Clase{1..6}
+ls -RTP1
+ls -R TP1
+rm -rf TP1
+mkdir -p TP1/arquitectura/Clase{1..6} TP1/SO/Clase{1..6}
+ls -R TP1
+tree TP1
+sudo apt update
+tree TP1
+apt install tree
+sudo apt update
+tre TP1
+tree --version
+sudo apt update
+sudo apt install tree -y
+which tree
+tree TP1
+nano script_dir.sh
+chmod +x script_dir.sh
+git add script_dir.sh
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
+$HOME/.bash_history
+history -a
+cp ~/.bash_history Historial_comandos_TuApellidoTuNombre.txt
